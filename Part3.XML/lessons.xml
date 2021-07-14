@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<myns:lessons xmlns:myns = "https://itcenter.itmo.ru/inzhener_programmist">
+  <myns:lesson id = "1">
+    <myns:Title>Programming technologies</myns:Title>
+    <myns:StartDate>23.03.2021</myns:StartDate>
+    <myns:EndDate>09.04.2021</myns:EndDate>
+    <myns:ProfName>Osipov N.A.</myns:ProfName>
+    <myns:Hours>50</myns:Hours>
+    <myns:AsessmentType>pass/fail</myns:AsessmentType>
+  </myns:lesson>
+  <myns:lesson id = "2">
+    <myns:Title>Introduction to databases</myns:Title>
+    <myns:StartDate>12.04.2021</myns:StartDate>
+    <myns:EndDate>22.04.2021</myns:EndDate>
+    <myns:ProfName>Yamschikov D.V.</myns:ProfName>
+    <myns:Hours>30</myns:Hours>
+    <myns:AsessmentType>pass/fail</myns:AsessmentType>
+  </myns:lesson>
+  <myns:lesson id = "3">
+    <myns:Title>C# programming</myns:Title>
+    <myns:StartDate>19.04.2021</myns:StartDate>
+    <myns:EndDate>18.05.2021</myns:EndDate>
+    <myns:ProfName>Smolyaninov A.V.</myns:ProfName>
+    <myns:Hours>50</myns:Hours>
+    <myns:AsessmentType>pass/fail</myns:AsessmentType>
+  </myns:lesson>
+  <myns:lesson id = "4">
+    <myns:Title>Microsoft SQL-Server &amp; T-SQL</myns:Title>
+    <myns:StartDate>20.05.2021</myns:StartDate>
+    <myns:EndDate>09.06.2021</myns:EndDate>
+    <myns:ProfName>Yamschikov D.V.</myns:ProfName>
+    <myns:Hours>65</myns:Hours>
+    <myns:AsessmentType>exam</myns:AsessmentType>
+  </myns:lesson>
+  <myns:lesson id = "5">
+    <myns:Title>Windows apps development</myns:Title>
+    <myns:StartDate>15.06.2021</myns:StartDate>
+    <myns:EndDate>02.04.2021</myns:EndDate>
+    <myns:ProfName>Osipov N.A.</myns:ProfName>
+    <myns:Hours>55</myns:Hours>
+    <myns:AsessmentType>exam</myns:AsessmentType>
+  </myns:lesson>
+  <myns:lesson id = "6">
+    <myns:Title>HTML/XML basics</myns:Title>
+    <myns:StartDate>05.07.2021</myns:StartDate>
+    <myns:EndDate>12.04.2021</myns:EndDate>
+    <myns:ProfName>Smolyaninov A.V.</myns:ProfName>
+    <myns:Hours>20</myns:Hours>
+    <myns:AsessmentType>pass/fail</myns:AsessmentType>
+  </myns:lesson>
+  <myns:lesson id = "7">
+    <myns:Title>ADO.NET</myns:Title>
+    <myns:StartDate>14.07.2021</myns:StartDate>
+    <myns:EndDate>30.07.2021</myns:EndDate>
+    <myns:ProfName>Smolyaninov A.V.</myns:ProfName>
+    <myns:Hours>40</myns:Hours>
+    <myns:AsessmentType>pass/fail</myns:AsessmentType>
+  </myns:lesson>
+</myns:lessons>

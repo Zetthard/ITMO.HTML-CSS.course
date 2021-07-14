@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resume>
+  <candidate id= "a">
+    <Name>Ann</Name>
+    <LastName>Oshemkova</LastName>
+    <MiddleName>Petrovna</MiddleName>
+    <Age>37</Age>
+    <Company>OOO "Proekt"</Company>
+    <Position>Manager</Position>
+    <DateOfBirth>12.09.1984</DateOfBirth>
+    <Education>Higher</Education>
+    <Phone>786-34-48</Phone>
+    <FamilyStatus>Married</FamilyStatus>
+    <DesiredSalary currency = "RUR">130 000</DesiredSalary>
+  </candidate>
+  <candidate id = "b">
+		<Name>Иван</Name>
+		<LastName>Сидоренко</LastName>
+		<PatronymicName>Иванович</PatronymicName>
+		<Age>33</Age>
+		<WorkPlace>ООО "РусьСвет"</WorkPlace>
+		<Post>экономист</Post>
+		<DateOfBirth>02.03.1968</DateOfBirth>
+		<Education>Высшее </Education>
+		<Address>СПб, Серпуховская 13-9</Address>
+		<Phone>987-65-54</Phone>
+		<FamilyStatus>женат</FamilyStatus>
+		<DesiredSalary currency = "RUR">100 000</DesiredSalary>
+	</candidate>
+  <candidate id = "c">
+		<Name>Ольга</Name>
+		<LastName>Гашекова</LastName>
+		<PatronymicName>Сергеевна</PatronymicName>
+		<Age>31</Age>
+		<WorkPlace>ООО "Строй"</WorkPlace>
+		<Post>менеджер по продажам</Post>
+		<DateOfBirth>19.12.1976</DateOfBirth>
+		<Education>Среднее</Education>
+		<Address>СПб, Дбуновская 12-4</Address>
+		<Phone>122-33-44</Phone>
+		<FamilyStatus>не замужем</FamilyStatus>
+		<DesiredSalary currency = "RUR">90 000</DesiredSalary>
+	</candidate>
+</resume>
